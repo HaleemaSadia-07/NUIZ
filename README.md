@@ -3,7 +3,6 @@
 Find Breaking Hot News from our website [NUIZ](https://nuiz.herokuapp.com/home) - https://nuiz.herokuapp.com.
 <br /><br />
 
-
 ## Features:
 * Current Weather Data.
 * Covid Cases in India (Total, recovered and deaths).
